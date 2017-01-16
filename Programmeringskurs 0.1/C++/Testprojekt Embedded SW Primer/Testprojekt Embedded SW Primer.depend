@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1386925628 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\c++\testprojekt embedded sw primer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

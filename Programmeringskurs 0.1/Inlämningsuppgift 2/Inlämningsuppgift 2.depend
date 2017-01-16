@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1381084352 source:c:\documents and settings\henrik\mina dokument\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

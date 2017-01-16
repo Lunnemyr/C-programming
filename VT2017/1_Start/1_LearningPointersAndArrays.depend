@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484503451 source:/home/henrik/Dropbox/Programming/C-programmering/VT2017/1_Start/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1385914661 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 5\inlämningsuppgift 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1385914661 c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 5\inlämningsuppgift 5\menu.h
+
+1385929151 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 5\inlämningsuppgift 5\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"queue.h"
+	"menu.h"
+
+1385935423 c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 5\inlämningsuppgift 5\queue.h
+
+1385935448 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 5\inlämningsuppgift 5\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"queue.h"
+

@@ -1,0 +1,64 @@
+TTest
+v7
+r0
+t442148854.537230
+cCheck dependencies
+cCompileC build/Test.build/Debug/Test.build/Objects-normal/x86_64/main.o /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Debug/Test normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BAC72CA00000000000000EE
+t1269592778
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004B738B7F0000000000004174
+t1265863551
+s16756
+
+N/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Debug/Test
+t1419632169
+s9008
+
+N/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Test.build/Debug/Test.build/Objects-normal/x86_64/Test.LinkFileList
+c00000000549DDE29000000000000007D
+t1419632169
+s125
+
+N/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Test.build/Debug/Test.build/Objects-normal/x86_64/main.o
+t1419632169
+s2716
+
+N/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/main.c
+c00000000549DDE190000000000000089
+t1419632153
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies442148854#442148854#0(0"0(0#1#0"4317978624#0"0#
+
+CCompileC build/Test.build/Debug/Test.build/Objects-normal/x86_64/main.o /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s441324969.317078
+e441324969.743223
+r1
+xCompileC
+xbuild/Test.build/Debug/Test.build/Objects-normal/x86_64/main.o
+x/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/main.c441324969#441324969#0(0"0(0#0#68"/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/main.c4317978624#1469"    cd /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Test.build/Debug/Test.build/Test-generated-files.hmap -I/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Test.build/Debug/Test.build/Test-own-target-headers.hmap -I/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Test.build/Debug/Test.build/Test-all-target-headers.hmap -iquote /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Test.build/Debug/Test.build/Test-project-headers.hmap -F/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Debug -I/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Debug/include -I/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Test.build/Debug/Test.build/DerivedSources/x86_64 -I/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Test.build/Debug/Test.build/DerivedSources -c /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/main.c -o /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Test.build/Debug/Test.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Debug/Test normal x86_64
+s441324969.743677
+e441324969.772998
+r1
+xLd
+x/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Debug/Test
+xnormal
+xx86_64
+lSLF07#2@83"Link /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Debug/Test441324969#441324969#0(0"0(0#0#0"4317978624#601"    cd /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Debug -F/Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Debug -filelist /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Test.build/Debug/Test.build/Objects-normal/x86_64/Test.LinkFileList -mmacosx-version-min=10.6 -o /Users/henrik/Dropbox/Programming/C-programmering/X-code/Test/build/Debug/Test0#
+

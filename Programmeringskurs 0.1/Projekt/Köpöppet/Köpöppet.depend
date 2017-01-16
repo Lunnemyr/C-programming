@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1353751060 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\projekt\köpöppet\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1389770504 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\projekt\köpöppet\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"queue.h"
+
+1389714178 c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\projekt\köpöppet\queue.h
+
+1389770442 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\projekt\köpöppet\simulator.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"simulator_helper_functions.h"
+	"queue.h"
+
+1388824968 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\projekt\köpöppet\menu.c
+
+1388824447 c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\projekt\köpöppet\simulator.h
+
+1388400873 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\projekt\köpöppet\cashier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cashier.h"
+
+1388398225 c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\projekt\köpöppet\cashier.h
+
+1389712640 c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\projekt\köpöppet\simulator_helper_functions.h
+
+1389770560 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\projekt\köpöppet\simulator_helper_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"simulator_helper_functions.h"
+	<time.h>
+

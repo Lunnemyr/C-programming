@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1379617242 source:c:\documents and settings\henrik\mina dokument\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1379616156 source:c:\documents and settings\henrik\mina dokument\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 1\doschar.c
+	<stdio.h>
+	<stdlib.h>
+

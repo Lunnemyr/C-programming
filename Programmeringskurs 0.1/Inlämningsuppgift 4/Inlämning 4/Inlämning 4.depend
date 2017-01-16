@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1384093196 source:c:\documents and settings\henrik\mina dokument\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 4\inlämning 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1384115778 source:c:\documents and settings\henrik\mina dokument\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 4\inlämning 4\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"queue.h"
+
+1384113480 source:c:\documents and settings\henrik\mina dokument\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 4\inlämning 4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"queue.h"
+	"menu.h"
+
+1384096148 c:\documents and settings\henrik\mina dokument\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 4\inlämning 4\menu.h
+
+1384114074 c:\documents and settings\henrik\mina dokument\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 4\inlämning 4\queue.h
+

@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1387733085 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 6\inlämningsupgift 6\heltals_klass.cpp
+	"heltals_klass.h"
+	<iostream>
+
+1387733085 c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 6\inlämningsupgift 6\heltals_klass.h
+
+1387733408 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 6\inlämningsupgift 6\main.cpp
+	<iostream>
+	"menu.h"
+
+1387642905 c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 6\inlämningsupgift 6\test_program.h
+
+1387644446 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 6\inlämningsupgift 6\test_program.cpp
+	"test_program.h"
+	"menu.h"
+	<iostream>
+	"heltals_klass.h"
+
+1387733890 c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 6\inlämningsupgift 6\menu.h
+
+1387735528 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 6\inlämningsupgift 6\array_av_heltal.cpp
+	"array_av_heltal.h"
+	"heltals_klass.h"
+	<iostream>
+	<stdlib.h>
+
+1387731800 c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 6\inlämningsupgift 6\array_av_heltal.h
+	"heltals_klass.h"
+
+1387735581 source:c:\users\henrika\dropbox\c-programmering\programmeringskurs 0.1\inlämningsuppgift 6\inlämningsupgift 6\menu.cpp
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"heltals_klass.h"
+	"array_av_heltal.h"
+
