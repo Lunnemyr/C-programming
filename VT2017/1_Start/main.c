@@ -13,7 +13,7 @@ int checkArrayEmpty (const char ** anArrayPtr)
     return result;
 //return -1 if array is empty, that is if null?
 }
-*/
+
 
 size_t calcLongestStringInArray (const char ** anArrayPtr, size_t arrayLength)
 {
@@ -40,9 +40,11 @@ size_t calcShortestStringInArray (const char ** anArrayPtr, size_t arrayLength)
     }
     return result;
 }
+*/
 
 int mxdiflg(const char **firstArray, size_t firstArrayLength, const char **secondArray, size_t secondArrayLength)
 {
+    int result = 0;
     if (firstArray == NULL || secondArray == NULL)
     {result = -1;}
     else
@@ -69,11 +71,25 @@ int mxdiflg(const char **firstArray, size_t firstArrayLength, const char **secon
             maxl1 = strlen(firstArray[i]);
             }
         }
+        /* Find shortest string in second array*/
+        for (int i=0; i<secondArrayLength;i++)
+        {
+            if (minl2 > strlen(secondArray[i]))
+            {
+            minl2 = strlen(secondArray[i]);
+            }
+        }
 
+        /* Find longest string in first array*/
+        for (int i=0; i<secondArrayLength;i++)
+        {
+            if (maxl2 < strlen(secondArray[i]))
+            {
+            maxl2= strlen(secondArray[i]);
+            }
+        }
 
     }
-
-
 
     return result;
 
@@ -93,13 +109,10 @@ int main()
     size_t secondArrayLength = sizeof(array2)/sizeof(array2[0]);
     const char ** array3 = NULL;
 
+    /*
     printf("Checking if array 1 is empty, result is: %d\n", checkArrayEmpty(array1));
     printf("Checking if array 2 is empty, result is: %d\n", checkArrayEmpty(array2));
     printf("Checking if array 3 is empty, result is: %d\n", checkArrayEmpty(array3));
-
-
-
-
 
     size_t maxl2 = calcLongestStringInArray(array2, secondArrayLength);
     printf("Longest string in array2 = %zd\n", maxl2);
@@ -114,5 +127,7 @@ int main()
 
     printf("Array 2: %s", *array2);
     //for (int i=0; i<= 7;i++)
+    */
+
     return 0;
 }
